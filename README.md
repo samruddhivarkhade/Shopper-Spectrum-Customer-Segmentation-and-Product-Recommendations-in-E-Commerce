@@ -58,27 +58,6 @@ This project aims to:
 - **Pickle**
 
 ---
-
-## Project Structure
-
-Shopper-Spectrum/
-├── data/
-│ └── OnlineRetail.csv
-├── src/
-│ ├── data_loader.py
-│ ├── data_cleaning.py
-│ ├── rfm.py
-│ ├── clustering.py
-│ ├── recommender.py
-│ └── eda.py
-├── models/
-│ ├── kmeans.pkl
-│ ├── scaler.pkl
-│ └── item_similarity.pkl
-├── app.py
-├── train.py
-└── requirements.txt
-
 ## How to Run the Project
 
 ### 1. Install Dependencies
